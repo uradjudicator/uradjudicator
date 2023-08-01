@@ -35,7 +35,7 @@ now I am studying in a cool and comfortable institution IT-Labs <a href=https://
 <details>
 <summary><b>-_-</b></summary>
 
-![Patrick Bateman](https://github.com/AndyMagwayer/AndyMagwayer/blob/main/sigma.gif)
+![Patrick Bateman](https://tenor.com/ru/view/ohh-awesome-nodding-american-psycho-christian-bale-gif-5600018)
 
 </details>
 </details>
