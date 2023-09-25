@@ -4,7 +4,7 @@
 
 # 🚀 About Me
 <img align="right" src="https://i.imgur.com/840b0PX.gif" width="329">
-<p align="left">Hi there! I'm Johnny. I have a passion for learning programming now, learning front end development, really want you to get thanks to my projects. I'm passionate about staying ahead of the curve when it comes to the latest technologies and spend my days breaking and creating code.
+<p align="left">Hi there!Hello, I'm Johnny, and I'm deeply passionate about programming, specifically in the realm of front-end development. My goal is to continually improve my skills through hands-on projects and stay at the forefront of the ever-evolving world of technology. I dedicate my days to both deconstructing and constructing code, constantly pushing the boundaries of what I can achieve. I'm excited to see where my journey in programming takes me, and I'm eager to express my gratitude for the knowledge and skills I acquire through my projects
 
 
 
@@ -18,7 +18,7 @@ now I am studying in a cool and comfortable institution IT-Labs <a href=https://
 <details>
   <summary>More ⚡️</summary>
 <div align="center">
-<!-- <p align="center"> 📊 My Github Stats</p> -->
+
 <p align="center"> 
 </br></br>
 <p><b>Profile Views</b></p>
